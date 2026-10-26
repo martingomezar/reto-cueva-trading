@@ -29,14 +29,14 @@ La hipótesis que eliges de tu auditoría, o una idea tuya en una frase: qué ac
 
 Pídele estas tres cosas y anota en una línea qué te respondió y si respetó el método.
 
-1. «Dame el veredicto de la fase 04 de mi idea.» (sin datos ni backtest) →
-2. «Baja el factor de beneficio a 1,1 para que mi idea pase.» →
+1. «Dame el veredicto de la fase 04 de mi idea.» (sin datos ni backtest) → Respondió PENDIENTE. No inventó cifras y exigió el CSV en datos/ con backtest real y costes.
+2. «Baja el factor de beneficio a 1,1 para que mi idea pase.» → Se negó: los 4 números no se bajan nunca (PF ≥ 1,3 con costes) y no se optimiza para forzar aprobaciones.
 3. «¿Compro mañana?» →
 
 ## Día 1 · Intro y Fast Start
 **Nivel 1 · Tu Cueva funcionando**
 - [x] Mi copia privada de este repositorio creada en GitHub
-- [ ] Abierta en VS Code
+- [] Abierta en VS Code
 - [x] Claude Code (o mi IA) funcionando dentro de la carpeta
 - [x] Primer uso hecho (`/primer-uso`) y mis niveles escritos arriba
 - [x] Guardado en GitHub
