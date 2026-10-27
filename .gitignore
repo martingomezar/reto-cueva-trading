@@ -21,3 +21,5 @@ Thumbs.db
 dist/
 *.eld
 *.pla
+*.gdoc
+*.gsheet
